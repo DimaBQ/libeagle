@@ -2,7 +2,7 @@ require 'nokogiri'
 require 'pp'
 require 'yaml'
 require 'nokogiri'
-require 'HTMLEntities'
+require 'htmlEntities'
 require_relative "libeagle/xml"
 require_relative "libeagle/base"
 require_relative "libeagle/eagle"
